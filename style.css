@@ -869,7 +869,9 @@ svg{
   background-color: white;
   border: none;
 }
-
+.btn-project a{
+  color: black;
+}
 .btn-project:hover {
   border: none;
 }
