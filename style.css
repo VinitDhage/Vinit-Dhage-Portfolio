@@ -453,18 +453,20 @@ a{
   gap: 10px;
   margin-bottom: 5px;
 }
-.bxl-html5{
-  font-size: 30px;
-  color: red;
-}
-.bxl-css3{
-  font-size: 30px;
-  color: rgb(0, 99, 164);
-}
+
 .bxl-python{
   font-size: 30px;
   color: #537802;
 }
+.bxl-javascript{
+  font-size: 30px;
+  color: yellow;
+}
+
+.bxl-postgresql{
+  color: lightblue;
+}
+
 .bxl-react{
   font-size: 30px;
   color: rgb(0, 99, 164);
@@ -610,7 +612,8 @@ a{
 
 .Professional-Skills-left{
   display: flex;
-  gap: 3.5rem;
+  gap: 3rem;
+  margin-left: -18px;
   align-items: center;
   margin-bottom: 6rem;
 }

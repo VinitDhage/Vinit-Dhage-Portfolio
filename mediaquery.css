@@ -65,6 +65,9 @@
       margin-top: 15rem;
       margin-right: 10rem 
     }
+    .page-header{
+      font-size: 75px;
+    }
     .project-container {
       display: grid;
       grid-template-columns: 1/2;
